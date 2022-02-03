@@ -34,8 +34,6 @@ console.log(emptyString);
 console.log(students);
 console.log(faculties);
 console.log(students.firstName[0] + students.lastName[0] + ' ' + 'Cgpa' + students.cgpa[0]);
-
 console.log(faculties[1].id);
-
 students.firstName[0] = 'aaaaa';
 console.log(students);
