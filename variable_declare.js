@@ -8,7 +8,7 @@ let emptyString = '';
 let students = {
     firstName :['Ashik', 'Toufique', 'Shafat', 'Kunal', 'Rafat', 'Foysal Hossain', 'Joyanto', 'Likhon', 'Arifur'],
     lastName :['Sarker', 'Ahammed', 'Ahammed', 'Ahammed', 'Rafu', 'Joti', 'Mondol', 'Ahamed', 'Rahaman'],
-    idNumber :[011141151, 011141152, 011141153, 011141154, 011141155, 011141156, 011141157, 011141158, 011141159],
+    idNumber :[011141151, 011141152, 011141153, 011141154, 011141155, 011141156, 011141157, 011141145, 011141145],
     cgpa :[3.99, 3.95, 3.98, 3.89, 3.87, 3.85, 3.88, 3.87, 3.87]
 };
 let faculties = [
